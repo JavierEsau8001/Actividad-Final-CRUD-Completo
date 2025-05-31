@@ -37,5 +37,3 @@ Estos fueron algunos puntos donde se presentaron dificultades durante el desarro
 
 ## 🎯 Conclusión  
 A pesar de los desafíos, el proyecto demuestra **resiliencia**, **atención a los detalles** y un fuerte enfoque en la **optimización de la interfaz y la funcionalidad**. La implementación de **React y Express** junto con **Sequelize** creó una solución **escalable y eficiente**, permitiendo una comunicación fluida entre el **Frontend** y el **Backend**.  
-
-Si deseas mejorar algún aspecto específico, podemos refinar la **integración de datos**, optimizar la **UI** o explorar nuevas funcionalidades 🚀😃.  
