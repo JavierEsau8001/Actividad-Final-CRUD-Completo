@@ -1,0 +1,28 @@
+.busqueda-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.busqueda-container {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Esto centra el contenido dentro del contenedor */
+  width: 100%;
+}
+
+.busqueda-input {
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 300px;
+  transition: border-color 0.3s;
+}
+
+.busqueda-input:focus {
+  border-color: white;
+  outline: none;
+}
